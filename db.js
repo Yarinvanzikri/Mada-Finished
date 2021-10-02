@@ -28,7 +28,7 @@ function ambulanceCollection(){
 
 module.exports = {
     connect,
-    ambulanceCollection: employeesCollection,
+    employeesCollection,
     callCollection,
     ambulanceCollection
 
